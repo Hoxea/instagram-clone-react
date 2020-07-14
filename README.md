@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## This is an Simple Instagram clone made with React + Firebase
+
+@hoxea-author
+
 ## Available Scripts
 
 In the project directory, you can run:
